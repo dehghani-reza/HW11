@@ -1,7 +1,7 @@
 package ir.mctab.hw11.excel.repositories;
 
 import ir.mctab.hw11.excel.service.Color;
-import ir.mctab.hw11.excel.entity.Person;
+import ir.mctab.hw11.excel.entities.Person;
 import org.apache.poi.xssf.usermodel.XSSFCell;
 import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;

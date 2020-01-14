@@ -1,4 +1,4 @@
-package ir.mctab.hw11.excel.entity;
+package ir.mctab.hw11.excel.entities;
 
 public class Person {
     Long id ;

@@ -1,6 +1,6 @@
 package ir.mctab.hw11.excel;
 
-import ir.mctab.hw11.excel.entity.Person;
+import ir.mctab.hw11.excel.entities.Person;
 import ir.mctab.hw11.excel.repositories.CrudDAO;
 import ir.mctab.hw11.excel.repositories.ExcelIO;
 import ir.mctab.hw11.excel.repositories.FileIO;
