@@ -1,0 +1,29 @@
+.text-box{
+    background-color: lightslategray;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+}
+.text-box1{
+    width: 100%;
+    padding: 10px;
+    margin: 5px 5px 5px 5px;
+
+}
+
+.text-text-box1{
+    color: #FFFFFF;
+    text-align: center;
+}
+.main{
+    display: flex;
+}
+@media screen and (max-width: 720px) {
+    .main{
+        display: block;
+    }
+    .text-box1{
+        width: 100%;
+        padding: 7px;
+    }
+}
